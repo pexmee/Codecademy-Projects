@@ -1,2 +1,2 @@
 # Codecademy-Projects
-Repository containing my solutions to Codecademy assignments.
+Repository containing Codecademy projects
