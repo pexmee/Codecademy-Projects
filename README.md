@@ -3,7 +3,10 @@
 ## A repository containing Codecademy projects.
 
 ### Current projects:
-- [x] **completed**, [ ] **uncompleted**
+
+- [x] **Finished projects** 
+- [ ] **Unfinished projects**
+
 - [x] **credit-card-checker-starter**
 - [x] **hello_html**
 - [x] **Lodash_project**
