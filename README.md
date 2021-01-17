@@ -9,6 +9,7 @@
 - [x] [**Lodash_project**](https://github.com/pexmee/Codecademy-Projects/tree/master/Lodash_project/lodash)
 - [x] [**mystery-organism-starter**](https://github.com/pexmee/Codecademy-Projects/tree/master/mystery-organism-starter)
 - [x] [**dasmotos_arts_&_crafts**](https://github.com/pexmee/Codecademy-Projects/tree/master/dasmotos_arts_%26_crafts)
+- [x] [**cheat_sheet**](https://github.com/pexmee/Codecademy-Projects/tree/master/cheat_sheet)
 
 sidenote:
 - [x] Completed
