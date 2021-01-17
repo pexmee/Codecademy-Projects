@@ -8,3 +8,4 @@
 - [x] **hello_html**
 - [x] **Lodash_project**
 - [x] **mystery-organism-starter**
+- [ ] **dasmotos_arts_&_crafts**
