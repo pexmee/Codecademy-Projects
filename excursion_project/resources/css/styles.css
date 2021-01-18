@@ -15,12 +15,13 @@ h2{
     color: grey;
 }
 
-.right-logo {
-    text-align: right;
-}
 
 /* Classes */ 
 .download-link {
     color: aquamarine;
     font-size: 16px;
+}
+
+.right-logo {
+    text-align: right;
 }
