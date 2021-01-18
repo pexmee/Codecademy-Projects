@@ -10,7 +10,7 @@
 - [x] [**mystery-organism-starter**](https://github.com/pexmee/Codecademy-Projects/tree/master/mystery-organism-starter)
 - [x] [**dasmotos_arts_&_crafts**](https://github.com/pexmee/Codecademy-Projects/tree/master/dasmotos_arts_%26_crafts)
 - [x] [**cheat_sheet**](https://github.com/pexmee/Codecademy-Projects/tree/master/cheat_sheet)
-- [x] [**excursion_project**](https://github.com/pexmee/Codecademy-Projects/tree/master/cheat_sheet/excursion_project)
+- [x] [**excursion_project**](https://github.com/pexmee/Codecademy-Projects/tree/master/excursion_project)
 
 Legend:
 - [x] Completed
