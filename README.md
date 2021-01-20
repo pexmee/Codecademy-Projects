@@ -11,6 +11,7 @@
 - [x] [**dasmotos_arts_&_crafts**](https://github.com/pexmee/Codecademy-Projects/tree/master/dasmotos_arts_%26_crafts)
 - [x] [**cheat_sheet**](https://github.com/pexmee/Codecademy-Projects/tree/master/cheat_sheet)
 - [x] [**excursion_project**](https://github.com/pexmee/Codecademy-Projects/tree/master/excursion_project)
+- [x] [**F1C1_start**](https://github.com/pexmee/Codecademy-Projects/tree/master/F1C1_start)
 
 Legend:
 - [x] Completed
