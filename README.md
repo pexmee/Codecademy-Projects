@@ -13,6 +13,7 @@
 - [x] [**excursion_project**](https://github.com/pexmee/Codecademy-Projects/tree/master/excursion_project)
 - [x] [**F1C1_start**](https://github.com/pexmee/Codecademy-Projects/tree/master/F1C1_start)
 - [ ] [**color_table_starter**](https://github.com/pexmee/Codecademy-Projects/tree/master/color_table_starter)
+
 Legend:
 - [x] Completed
 - [ ] Uncompleted
